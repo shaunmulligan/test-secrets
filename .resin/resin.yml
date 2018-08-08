@@ -1,4 +1,4 @@
 build-secrets:
   global:
-      - source: my-secret-file.txt
+      - source: my-secret-file
         dest: my-recipe  

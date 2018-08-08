@@ -5,4 +5,4 @@ ENV UDEV=off
 
 RUN cat /run/secrets/my-recipe
 
-CMD ["la", "-a"]
+CMD ["ls", "-a"]
